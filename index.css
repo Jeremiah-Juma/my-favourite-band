@@ -1,0 +1,37 @@
+p{
+    font-size: 20px;
+    font-style: italic;
+}
+li{
+    font-size: large;
+    color: deepskyblue;
+}
+h1{
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+
+    
+}
+h3{
+    font-size: x-large;
+    font-style: inherit;
+    color: mediumaquamarine;
+}
+body{
+    background-image: url("../images/guitar.jpeg");
+    height: 800;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+img{
+    height: 200px;
+    width: auto;
+    float: right;
+    margin: 40px;
+}
+   
+    
